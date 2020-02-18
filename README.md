@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> Project in Java to discover the roots of the quadratic function.
+> Project in Java to discover the roots of the quadratic functions.
 
 ## Author
 
